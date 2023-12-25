@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+.Sec{
+ 
+    background-color: rgb(63, 63, 63);
+}
+.Sec1{
+    display: inline-block;
+    
+    margin: 50px 35px;
+    
+    
+}
+.Sec1 a{
+    text-decoration: none;
+}
+.div1{
+    background-color: rgb(99, 153, 184);
+}
+.div2{
+    background-color: rgb(250, 250, 136);
+}
